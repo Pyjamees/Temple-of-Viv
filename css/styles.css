@@ -1,0 +1,145 @@
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  display: inline-block;
+  padding: 10px;
+  margin-bottom: 20px 10px;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-weight: bold;
+  color: #40514E;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+h3 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr{
+  border: dotted #EAF6F6 10px;
+  border-bottom: none;
+  width: 70px;
+  margin: 100px auto;
+}
+
+p{
+  line-height: 2;
+}
+
+
+.btn {
+  background: #11cdd4;
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color:#EAF6F6;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.centre-align {
+  width: 40%;
+  margin: 50px auto;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  padding: 10px;
+}
+
+.left-align {
+  width: 40%;
+  margin: 75px auto 150px auto;
+  text-align: left;
+}
+
+.left-align-img {
+  height: 250px;
+  border-radius: 50px;
+  margin: auto 30px auto auto;
+  float: left;
+}
+
+.profile-pic {
+  border-radius: 50%;
+  width: 200px;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  background-image: linear-gradient(to bottom, #EAF6F6, #D4F9F5);
+  padding-top: 100px;
+}
+
+.top-container-img {
+  border-radius: 8px;
+  position: relative;
+  width: 600px;
+  margin: auto;
+}
+
+.middle-container {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding-top: 50px;
+}
+
+.right-align-img {
+  height: 200px;
+  border-radius: 50px;
+  margin: auto auto 50px 30px;
+  float: right;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 100px;
+  right: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 200px;
+  left: 25px;
+}
+
+.pro {
+  text-decoration: underline;
+}
